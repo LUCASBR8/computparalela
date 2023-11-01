@@ -4,4 +4,5 @@ Como compilar o programa na plataforma disponibilizada? Resposta : gcc -o nome d
 
 Como executar o programa? Resposta: Precisa colocar o ./ e o nome do programa
 
-Como comprovar que os resultados propostos foram alcançados Resposta: prints anexados 
+Como comprovar que os resultados propostos foram alcançados Resposta: prints anexados e tambem anexamos os graficos e os speedups tanto do multiplicacao de matrizes como soma de trapezios 
+
